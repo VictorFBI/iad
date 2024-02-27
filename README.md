@@ -4,3 +4,5 @@ Repository for storing all home assignments and projects from the HSE Minor cour
 Practice with numpy
 ## HW 2 
 Practice with pandas
+## HW 3
+Exploratory data analysis + visualisation with matplotlib and seaborn
