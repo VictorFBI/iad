@@ -8,5 +8,7 @@ Practice with pandas
 Exploratory data analysis + visualisation with matplotlib and seaborn
 ## HW 4
 Practice with scikit-learn: kNN analysis + realisation and linear regression (Lasso and Ridge)
-# HW 5
+## HW 5
 Realisation of gradient descent and stochastic gradient descent + developing the custom LinearRegression class with fit and predict methods. Additionally: Simulated annealing algorithm
+## HW 6
+Texts (introduction to nlp): tokenization, vectorization, stemming, etc
