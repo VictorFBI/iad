@@ -12,3 +12,7 @@ Practice with scikit-learn: kNN analysis + realisation and linear regression (La
 Realisation of gradient descent and stochastic gradient descent + developing the custom LinearRegression class with fit and predict methods. Additionally: Simulated annealing algorithm
 ## HW 6
 Texts (introduction to nlp): tokenization, vectorization, stemming, etc
+## HW 7
+Skipped :(
+## HW 8
+Boosting and clusterization
